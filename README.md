@@ -1,10 +1,6 @@
 ### EAE 👋
 ## README
 
-Olá! Seja bem-vindo ao meu perfil no GitHub. 
-
-Meu nome é João Pedro Pereira Santiago, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Amazonas (IFAM). 
-
 
 - [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/)
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
