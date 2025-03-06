@@ -1,39 +1,64 @@
-### EAE 👋
-## README
+[![👋 Hi there!](./banner.png)](https://twitter.com/captnotes)
 
+## 👨🏻‍💻 About Me
 
-- [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
-[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
-[![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/br/products/delphi)
-[![RAD Studio](https://img.shields.io/badge/RAD%20Studio-10.4%20Sydney-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/br/products/rad-studio)
-[![VCL](https://img.shields.io/badge/VCL-Visual%20Component%20Library-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Visual_Component_Library)
-[![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google%20data%20studio&logoColor=white)](https://datastudio.google.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6600?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-003C71?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-6D7D8F?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+As a seasoned software developer with almost 20 years of experience (since 2006), I'm now serving the industry as a freelance expert with a passion for problem-solving. I'm an award-winning software developer who takes pride in delivering high-quality and timely performance results and helping my clients WIN.
 
+Well, here's a more in-depth overview of my skills and expertise:
 
+<!-- - [Portfolio](https://CaptMichael.dev)
+- [Upwork](https://www.upwork.com/freelancers/~01eed6a13d9b28ab5d)
+- [LinkedIn](https://www.linkedin.com/in/XinwenCheng)
+- [𝕏 / Twitter](https://twitter.com/CaptMichaelDev)
+- [Medium](https://captnotes.medium.com)
+- [Archived Blog (in Simplified Chinese)](https://captnotes.github.io) -->
 
+|                                      |                                                     |                                                 |                                                                  |                                                   |                                        |                                                                      |
+| ------------------------------------ | --------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------- |
+| [Portfolio](https://CaptMichael.dev) | [LinkedIn](https://www.linkedin.com/in/XinwenCheng) | [Fiverr](https://www.fiverr.com/captmichaeldev) | [Upwork](https://www.upwork.com/freelancers/~01eed6a13d9b28ab5d) | [𝕏 / Twitter](https://twitter.com/CaptMichaelDev) | [Medium](https://captnotes.medium.com) | [Archived Blog (in Simplified Chinese)](https://captnotes.github.io) |
 
+<!-- ## :floppy_disk: GitHub Stats
 
-## Contato
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinwencheng&show_icons=true&theme=github_dark)
 
-Se você está interessado em colaborar em algum projeto, trocar experiências ou simplesmente conversar sobre programação, desenvolvimento de software, arquitetura ou padrões de projeto, fique à vontade para entrar em contato comigo.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinwencheng&layout=pie&theme=github_dark) -->
 
+## :file_folder: Currently Working On
 
-- [Email](jpedropsss@gmail.com)
+- [News on Kindle](https://newsonkindle.info): The easiest way to read news on your Kindle.
+- [Clear My List](https://clearmylist.io): The next-generation personal time management solution.
+- [Dynamic Ideas](https://dynamicideas.ai): The official website presents all of my indie hacking software products and services.
 
-## Agradecimentos
+## :hammer_and_wrench: Current Tech Stack
 
-Se você tiver alguma sugestão, dúvida ou feedback, não hesite em entrar em contato. Obrigado!
+- Primary
+  - React & Next.js & React Native
+  - Astro
+  - Vue.js & Nuxt
+  - Express & Node.js
+  - NPM Packages
+  - MongoDB & Redis
+  - Serverless & GraphQL
+- Secondary
+  - Flutter
+  - Python & FastAPI
+  - WeChat Mini App
 
+## :sparkles: Fun Facts
+
+- Flying a Cirrus SR-20 has been a dream come true, and I'm on my way to becoming a certified jet pilot.
+- I pursued my passion for film by attending the Beijing Film Academy after watching over 1,000 movies. I've watched over 2,160 movies now and continue to hone my expertise.
+- While my rate of reading books is slower than movies', the important thing is to keep learning and engaging with ideas. Numbers don't tell the whole story.
+
+## :earth_americas: Want to Reach Me?
+
+- [Email](mailto:CaptMichaelDev@gmail.com?subject=Greeting%20from%20a%20GitHub%20user)
+
+## 🎓 Me on Daily.Dev
+
+<!-- <a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/ec06c252421e46e78714a3afcecc65a6.png?r=deb" width="400" alt="Capt. Michael's Dev Card"/></a> -->
+
+<a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/v2/NA8mSv4fLrDXJ0DNkfg61.png?type=wide&r=5dt" width="652" alt="Capt. Michael"/></a>
+
+<!-- Emoji icons: https://emojipedia.org -->
+<!-- Banner generator: https://fontmeme.com/text-generator -->
