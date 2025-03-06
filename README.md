@@ -58,7 +58,7 @@ Desenvolvedor de sistemas baseados em web e saúde e Ciência de dados , soluç�
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaopedrosantiago&theme=darkhub&no-bg=true&row=1&margin-w=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JPEDROPS092&theme=darkhub&no-bg=true&row=1&margin-w=15" alt="trophy" />
 </div>
 
 ## 📚 Atualmente Trabalhando Em
