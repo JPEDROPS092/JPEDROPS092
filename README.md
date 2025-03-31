@@ -22,7 +22,7 @@
 </div>
 
 ## 👨🏻‍💻 Sobre Mim 
-Desenvolvedor de sistemas baseados em web e saúde e Ciência de dados, soluções que fazem a diferença. Com experiência em visão computacional, aprendizado de máquina e desenvolvimento full-stack, tenho orgulho em entregar aplicações de alta qualidade que resolvem problemas.
+aplicações de alta qualidade que resolvem problemas.
 
 ## 🚀 Tecnologias & Ferramentas
 
