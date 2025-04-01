@@ -33,7 +33,7 @@ aplicações de alta qualidade que resolvem problemas.
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
     <td style="border: none;">
-      <img height="40" src="https://skillicons.dev/icons?i=java,python,laravel,nodejs,fastapi,flask,express,nginx,vite,django"/>
+      <img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs,fastapi,flask,express,nginx,vite,django"/>
     </td>
   </tr>
   <!-- Frontend -->
