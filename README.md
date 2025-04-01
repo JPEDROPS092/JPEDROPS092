@@ -54,7 +54,7 @@ aplicações de alta qualidade que resolvem problemas.
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">DevOps:</td>
     <td style="border: none;">
-      <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun,aws,git"/>
+      <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,aws,git"/>
     </td>
   </tr>
   <!-- Automated test -->
@@ -83,9 +83,6 @@ aplicações de alta qualidade que resolvem problemas.
     <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Other Tools:</td>
     <td style="border: none;">
       <img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash,regex,d3,latex"/>
-
-
-    </td>
   </tr>
     <!-- AI/ML -->
   <tr>
@@ -102,7 +99,7 @@ aplicações de alta qualidade que resolvem problemas.
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating Systems:</td>
     <td style="border: none;">
-      <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine,linux,arch"/>
+      <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,linux,arch"/>
     </td>
   </tr>
 </table>
