@@ -123,7 +123,7 @@ aplicações de alta qualidade que resolvem problemas.
   [![Email](https://img.shields.io/badge/Email-jpedropsss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedropsss@gmail.com?subject=GitHub%20Contact)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-pereira-santiago-340048269)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592991044363)
-  [![Website](https://img.shields.io/badge/Website-jpedrops.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jpedrops.com)
+  [![Website](https://img.shields.io/badge/Website-jpedrops.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]([https://jpedrops.com](https://jp-site-jpedrops-projects.vercel.app))
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPEDROPS092)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedropereirasantiago)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jpedropsss)
