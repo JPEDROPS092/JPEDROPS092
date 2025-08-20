@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-   <h1>Olá 👋, Eu sou <a href="https://jpedrops.com">Pedro Santiago</a> </h1>
+   <h1>Hello 👋, I'm <a href="https://jpedrops.com">Pedro Santiago</a> </h1>
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </div>
 
@@ -21,10 +21,10 @@
   </a>
 </div>
 
-## 👨🏻‍💻 Sobre Mim 
-aplicações de alta qualidade que resolvem problemas.
+## 👨🏻‍💻 About Me 
+I'm passionate about building high-quality applications that solve real-world problems.
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Technologies & Tools
 
 <div align="center">
 
@@ -57,9 +57,9 @@ aplicações de alta qualidade que resolvem problemas.
       <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,aws,git"/>
     </td>
   </tr>
-  <!-- Automated test -->
+  <!-- Automated Testing -->
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Automated test:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Automated Testing:</td>
     <td style="border: none;">
       <img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest"/>
     </td>
@@ -71,9 +71,9 @@ aplicações de alta qualidade que resolvem problemas.
       <img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/>
     </td>
   </tr>
-  <!-- Ides -->
+  <!-- IDEs -->
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Ides:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">IDEs:</td>
     <td style="border: none;">
       <img height="40" src="https://skillicons.dev/icons?i=vscode,webstorm,sublime,pycharm,idea"/>
     </td>
@@ -110,25 +110,25 @@ aplicações de alta qualidade que resolvem problemas.
   <img src="https://github-profile-trophy.vercel.app/?username=JPEDROPS092&theme=darkhub&no-bg=true&row=1&margin-w=15" alt="trophy" />
 </div>
 
-## 🌟 Fatos Interessantes
-- Gosto de combinar aprendizado de máquina com aplicações do mundo real que ajudam pessoas
-- Comecei minha jornada na engenharia antes de encontrar minha verdadeira vocação no desenvolvimento de software
-- Sou fluente em Português e Inglês,Espanhol o que me permite colaborar com equipes internacionais
-- Entusiasta de ciência de dados e sempre em busca de novos desafios
+## 🌟 Fun Facts
+- I enjoy combining machine learning with real-world applications to help people.
+- My journey began in engineering before I found my true calling in software development.
+- I am fluent in Portuguese, English, and Spanish, which allows me to collaborate effectively with international teams.
+- I'm a data science enthusiast, always looking for new challenges.
 
-## 📫 Entre em Contato
+## 📫 Get in Touch
 
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-jpedropsss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedropsss@gmail.com?subject=GitHub%20Contact)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-pereira-santiago-340048269)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592991044363)
-  [![Website](https://img.shields.io/badge/Website-jpedrops.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]([https://jpedrops.com](https://jp-site-jpedrops-projects.vercel.app))
+  [![Website](https://img.shields.io/badge/Website-jpedrops.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jp-site-jpedrops-projects.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPEDROPS092)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedropereirasantiago)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jpedropsss)
   
-  📱 Telefone: +55 92 99104-4363
+  📱 Phone: +55 92 99104-4363
   
 </div>
 
@@ -140,4 +140,4 @@ aplicações de alta qualidade que resolvem problemas.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Footer" />
-</div>
+</div>```
