@@ -6,7 +6,6 @@
 
 I build production-ready AI systems that connect **machine learning, optimization, data engineering, and full-stack development**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jpedrops.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://jpedrops.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-pereira-santiago-340048269)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedropsss@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JPEDROPS092-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPEDROPS092)
@@ -139,8 +138,6 @@ Bioinformatics              →  Reproducible 16S rRNA microbiome analysis and M
 I'm open to collaborating on **Applied AI, Machine Learning, Data Science, optimization, and research projects**.
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jpedrops.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-pereira-santiago-340048269)
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedropsss@gmail.com)
 
