@@ -1,80 +1,153 @@
 <div align="center">
-   <!-- Optional: Keep this if you have a custom banner image -->
-   <!-- <img src="./banner.png" alt="Banner" width="100%" /> -->
-   
-   <h1>
-      Hello 👋, I'm <a href="https://jpedrops.com">Pedro Santiago</a>
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-   </h1>
-</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9DF7&width=435&lines=Python+Developer;Machine+Learning+Engineer;Data+Science+Enthusiast;Full-Stack+Developer;Bioinformatics" alt="Typing SVG" />
-  </a>
-</p>
+# Hi, I'm João Pedro Santiago 👋
 
-<div align="center">
-  <a href="https://github.com/JPEDROPS092">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPEDROPS092&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Pedro's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPEDROPS092&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
+### AI/ML Engineer · Data Scientist · Applied AI Researcher
 
-<br/>
+I build production-ready AI systems that connect **machine learning, optimization, data engineering, and full-stack development**.
 
-## 👨🏻‍💻 About Me 
-I'm a passionate developer dedicated to building high-quality applications that solve real-world problems, with a special focus on the intersection of **Machine Learning** and **Bioinformatics**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-jpedrops.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://jpedrops.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-pereira-santiago-340048269)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedropsss@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JPEDROPS092-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPEDROPS092)
 
-## 🚀 Technologies & Tools
-
-<div align="center">
-
-| **Category**        | **Tools**                                                                                                                                                                                                                                                                                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Backend**         | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| **Frontend**        | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Database**        | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white) |
-| **DevOps & Cloud**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| **AI/ML & Data Science** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-| **Testing**         | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) |
-| **Other**           | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2C9DF7&center=true&vCenter=true&width=760&lines=Building+intelligent+systems+from+research+to+production;Machine+Learning+%7C+Multi-Agent+Systems+%7C+Optimization;Computer+Vision+%7C+Bioinformatics+%7C+Data+Engineering" alt="Typing introduction" />
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JPEDROPS092&theme=darkhub&no-bg=true&row=1&margin-w=15&no-frame=true" alt="trophy" />
-</div>
+## About me
 
-## 🌟 Fun Facts
--   I love combining **Machine Learning with real-world applications**, especially in healthcare and bioinformatics.
--   My engineering background gives me a unique, problem-solving perspective in software development.
--   I'm fluent in **Portuguese, English, and Spanish**, enabling seamless collaboration with global teams.
--   A lifelong learner, I'm always seeking the next challenge in data science and full-stack development.
+I'm an AI/ML Engineer and Data Scientist from Manaus, Brazil, focused on building **end-to-end intelligent systems**. My work ranges from experimentation and model development to scalable APIs, data pipelines, cloud deployment, and user-facing applications.
 
-## 📫 Get in Touch
+- 🧠 Building AI agents, RAG workflows, predictive models, and optimization systems
+- 🏭 Applying AI to supply chain, manufacturing, retail, healthcare, and document intelligence
+- 🔬 Researching multimodal AI, computer vision, bioinformatics, and assistive technologies
+- ☁️ Working with AWS, Google Cloud, Docker, and production-oriented ML workflows
+- 🌎 Collaborating in Portuguese, English, and Spanish
+- 📍 Based in Manaus, Amazonas, Brazil
+
+## Selected impact
+
+```text
+Supply-chain optimization   →  Genetic algorithms with a measured 20% improvement
+Enterprise document AI      →  Multi-agent pipelines for extraction, matching, and validation
+Retail intelligence         →  Forecasting and analytics over 1M+ inventory transfers
+Energy forecasting          →  LightGBM pipeline reaching R² 0.9748
+Assistive computer vision   →  Detection, depth estimation, and scene understanding
+Bioinformatics              →  Reproducible 16S rRNA microbiome analysis and ML
+```
+
+## What I work with
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jpedropsss%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedropsss@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-pereira-santiago-340048269)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592991044363)
-[![Website](https://img.shields.io/badge/Website-jpedrops.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jp-site-jpedrops-projects.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPEDROPS092)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jpedropsss)
+### AI, Machine Learning & Data
 
-<br/>
-📱 **Phone:** +55 92 99104-4363
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+### Backend, Frontend & Data Stores
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud, MLOps & Engineering
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 </div>
 
-<br/>
+## Featured work
 
-<h1 align='center'>⚡️<i>Made in Brazil</i>⚡️</h1>
+| Project | What it does | Core technologies |
+|---|---|---|
+| **FLORA** | Local-first pipeline for 16S rRNA microbiome analysis, compositional normalization, and machine learning | Python, DuckDB, CLR/TSS, ML |
+| **MedVisionFramework** | Multimodal medical-image triage and benchmarking using vision-language and foundation models | PyTorch, CLIP, SigLIP, DINOv2, RAG |
+| **Enterprise Multi-Agent AI** | Specialized agents for OCR, cleanup, normalization, matching, enrichment, allocation, and validation | Python, Gemini, agent orchestration, APIs |
+| **Supply-Chain Optimizer** | Allocation engine combining genetic algorithms, optimization baselines, and business constraints | DEAP, Pyomo, Python, analytics |
+| **Assistive Mobility AI** | Computer-vision pipeline for object detection, depth estimation, and scene descriptions | YOLO, MiDaS, BLIP, OpenCV |
+| **Flashify** | AI-powered study platform for generating flashcards, quizzes, and personalized learning paths | Python, TypeScript, PWA, generative AI |
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JPEDROPS092&label=Profile%20views&color=0e75b6&style=flat" alt="JPEDROPS092" />
-</p>
+<div align="center">
 
-<!-- Removed bottom SVG for a cleaner finish -->
+[![Explore my repositories](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPEDROPS092?tab=repositories)
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=JPEDROPS092&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=JPEDROPS092&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JPEDROPS092&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="João Pedro's GitHub statistics" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JPEDROPS092&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JPEDROPS092&layout=compact&theme=default&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPEDROPS092&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JPEDROPS092&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## Current interests
+
+- Production-grade AI agents and multi-agent orchestration
+- Multimodal models and vision-language systems
+- Scalable ML architectures and distributed data processing
+- Operations research and AI-driven decision systems
+- Bioinformatics, digital health, and assistive technology
+
+## Let's connect
+
+I'm open to collaborating on **Applied AI, Machine Learning, Data Science, optimization, and research projects**.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jpedrops.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-pereira-santiago-340048269)
+[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedropsss@gmail.com)
+
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=JPEDROPS092&label=Profile+views&color=2C9DF7&style=flat-square)
+
+<sub>Building intelligent systems from the Amazon to the world 🌎</sub>
+
+</div>
